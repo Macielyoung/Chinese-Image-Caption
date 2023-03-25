@@ -43,16 +43,16 @@ print(preds)
 
 ### 案例展示
 
-| 图片                                                         | 描述                             |
-| ------------------------------------------------------------ | -------------------------------- |
-| <img src="./images/百褶裙.jpg" alt="百褶裙" style="zoom:16%;" /> | 百搭半身裙，穿出优雅气质         |
-| <img src="./images/纯棉袜.jpg" alt="纯棉袜" style="zoom:20%;" /> | 柔软舒适棉袜，给你温暖呵护       |
-| <img src="./images/高跟鞋.jpg" alt="高跟鞋" style="zoom:16%;" /> | 尖头细高跟鞋，轻松穿出女神范     |
-| <img src="./images/夹克.jpg" alt="夹克" style="zoom:30%;" /> | 秋冬穿对型男潮流外套，时髦又保暖 |
-| <img src="./images/手绘美甲.jpg" alt="美甲" style="zoom:13%;" /> | 简约美甲，让你的生活更美好       |
-| <img src="./images/卫衣.jpg" alt="卫衣" style="zoom:13%;" /> | 时尚印花卫衣，演绎青春活力       |
-| <img src="./images/洗衣机.jpg" alt="洗衣机" style="zoom:15%;" /> | 高颜值洗衣机，让你的生活更加精致 |
-| <img src="./images/小耳钉.jpg" alt="小耳钉" style="zoom:14%;" /> | 精美耳饰，点缀你的精致生活       |
+| 图片                                                      | 描述                             |
+| --------------------------------------------------------- | -------------------------------- |
+| <img src="./images/百褶裙.jpg" alt="百褶裙" width="120"/> | 百搭半身裙，穿出优雅气质         |
+| <img src="./images/纯棉袜.jpg" alt="纯棉袜" width="120"/> | 柔软舒适棉袜，给你温暖呵护       |
+| <img src="./images/高跟鞋.jpg" alt="高跟鞋" width="120"/> | 尖头细高跟鞋，轻松穿出女神范     |
+| <img src="./images/夹克.jpg" alt="夹克" width="120"/>     | 秋冬穿对型男潮流外套，时髦又保暖 |
+| <img src="./images/手绘美甲.jpg" alt="美甲" width="120"/> | 简约美甲，让你的生活更美好       |
+| <img src="./images/卫衣.jpg" alt="卫衣" width="120"/>     | 时尚印花卫衣，演绎青春活力       |
+| <img src="./images/洗衣机.jpg" alt="洗衣机" width="120"/> | 高颜值洗衣机，让你的生活更加精致 |
+| <img src="./images/小耳钉.jpg" alt="小耳钉" width="120"/> | 精美耳饰，点缀你的精致生活       |
 
 
 

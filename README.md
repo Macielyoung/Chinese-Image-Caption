@@ -6,7 +6,7 @@
 2. 模型结构使用Encoder-Decoder结构，其中Encoder使用[BEiT](https://arxiv.org/pdf/2106.08254.pdf)（Vision Transformer, BERT-like），Decoder使用GPT。
 3. 使用[Muge Image Caption数据集](https://tianchi.aliyun.com/dataset/107332)作为训练语料，训练5k步，最终验证集loss为0.3737，rouge1为20.419，rouge2为7.3553，rougeL为17.3753，rougeLsum为17.376。
 
-![ViT-GPT](./images/ViT-GPT.jpg)
+![ViT-GPT](images/ViT-GPT.jpg)
 
 
 
